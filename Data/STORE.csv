@@ -1,0 +1,114 @@
+CODE_BOUTIQUE,ID_BOUTIQUE,REGIONS,VILLE,CDP,CENTRE_VILLE,CONCEP,TYPE_MAGASIN,MER_TERRE,REGIONS_COMMERCIAL,QUOTA
+61,44,Province,Nice,0 6000,Centre Co,ac,mag propre,mer,,150
+62,72,Province,CAP 3000,06700,Centre Commercial,nc,Succursale,Mer,Province,0
+63,75,Province,CANNES,06400,Centre ville,nc,Succursale,Mer,Province,0
+121,106,Province,RODEZ,12000,Centre ville,nv,Affilié,Mer,Province,0
+130,38,Province,MARSEILLE,13001,Centre ville,ac,Succursale,Mer,Province,150
+131,19,Province,AIX EN PROVENCE,13100,Centre ville,ac,Succursale,Mer,Province,300
+141,28,Province,CAEN,14000,Centre ville,ac,Succursale,Mer,Province,150
+142,102,Province,DEAUVILLE,14800,Centre ville,nv,Succursale,Mer,Province,0
+151,64,Province,AURILLAC,15000,Centre ville,ac,Affilié,Mer,Province,300
+171,65,Province,LA ROCHELLE,17000,Centre ville,ac,Affilié,Mer,Province,300
+181,26,Province,BOURGES,18000,Centre ville,ac,Succursale,Mer,Province,100
+201,83,Province,BASTIA,20200,Centre ville,nc,Affilié,Mer,Province,0
+211,29,Province,DIJON,21000,Centre ville,ac,Succursale,Mer,Province,100
+241,96,Province,PERIGUEUX,24000,Centre ville,nc,Affilié,Mer,Province,0
+251,24,Province,BESANCON,25000,Centre ville,ac,Succursale,Mer,Province,150
+291,27,Province,BREST BRETAGNE,29200,Centre Commercial,ac,Succursale,Mer,Province,150
+292,49,Province,QUIMPER,29100,Centre ville,ac,Succursale,Mer,Province,120
+301,101,Province,NIMES,30000,Centre ville,nv,Succursale,Terre,Province,0
+311,55,Province,TOULOUSE 1,31000,Centre ville,ac,Succursale,Mer,Province,120
+312,56,Province,LABEGE,31670,Centre Commercial,ac,Succursale,Mer,Province,120
+313,48,Province,PORTET,31227,Centre Commercial,ac,Succursale,Mer,Province,200
+314,74,Province,TOULOUSE 2,31000,Centre ville,nc,Succursale,Terre,Province,0
+331,25,Province,BORDEAUX 1,33000,Centre ville,ac,Succursale,Mer,Province,120
+332,39,Province,MERIGNAC,33700,Centre Commercial,ac,Succursale,Mer,Province,150
+333,76,Province,BORDEAUX 2,33000,Centre ville,nc,Succursale,Mer,Province,0
+334,82,Province,BORDEAUX LE LAC,33000,Centre ville,nc,Succursale,Mer,Province,0
+341,61,Province,MONTPELLIER,34000,Centre ville,ac,Affilié,Mer,Province,150
+342,80,Province,MONTPELLIER 2,34000,Centre ville,nc,Succursale,Terre,Province,0
+343,98,Province,LATTES,34970,Centre Commercial,nc,Succursale,Mer,Province,0
+350,62,Province,RENNES 1,35000,Centre Commercial,ac,Affilié,Mer,Province,150
+351,63,Province,RENNES 2,35767,Centre Commercial,ac,Affilié,Mer,Province,100
+371,57,Province,TOURS,37000,Centre Commercial,ac,Succursale,Mer,Province,120
+381,31,Province,GRENOBLE,38000,Centre ville,ac,Succursale,Mer,Province,150
+421,53,Province,ST ETIENNE,42000,Centre ville,ac,Succursale,Mer,Province,100
+422,100,Province,ROANNE,42300,Centre ville,nc,Affilié,Terre,Province,0
+441,42,Province,NANTES,44000,Centre ville,ac,Succursale,Mer,Province,150
+442,43,Province,PARIDIS,44305,Centre Commercial,ac,Succursale,Mer,Province,100
+444,110,Province,LA BAULE,44500,Centre ville,nc,Succursale,Mer,Province,0
+451,45,Province,ORLEANS,45000,Centre ville,ac,Succursale,Mer,Province,100
+470,88,Province,AGEN,47000,Centre ville,nc,Affilié,Mer,Province,0
+491,20,Province,ANGERS,49100,Centre ville,ac,Succursale,Mer,Province,100
+511,50,Province,REIMS,51100,Centre ville,ac,Succursale,Mer,Province,80
+530,60,Province,LAVAL,53000,Centre ville,ac,Succursale,Mer,Province,200
+541,41,Province,NANCY,54000,Centre ville,ac,Succursale,Mer,Province,80
+561,68,Province,VANNES,56000,Centre ville,ac,Succursale,Mer,Province,600
+572,93,Province,METZ,57000,Centre ville,nv,Succursale,Mer,Province,0
+591,58,Province,VILLENEUVE D'ASCQ,59650,Centre Commercial,ac,Succursale,Mer,Province,150
+592,34,Province,LILLE 1,59000,Centre ville,ac,Succursale,Mer,Province,100
+593,71,Province,LILLE 2,59000,Centre ville,nc,Succursale,Mer,Province,0
+595,109,Province,VALENCIENNES,59300,Centre ville,nv,Affilié,Mer,Province,0
+630,59,Province,CLERMONT FERRAND,63000,Centre ville,ac,Affilié,Mer,Province,150
+641,46,Province,PAU,64000,Centre ville,ac,Succursale,Mer,Province,100
+642,21,Province,BAB2 ANGLET,64600,Centre Commercial,ac,Succursale,Mer,Province,300
+661,84,Province,PERPIGNAN,66000,Centre ville,nc,Succursale,Mer,Province,0
+671,54,Province,STRASBOURG,67000,Centre ville,ac,Succursale,Mer,Province,150
+691,36,Province,LYON BREST,69002,Centre ville,ac,Succursale,Mer,Province,100
+692,37,Province,LYON SAXE,69006,Centre ville,ac,Succursale,Mer,Province,100
+693,35,Province,LYON HERRIOT,69002,Centre ville,ac,Succursale,Mer,Province,120
+694,30,Province,LYON ECULLY,69130,Centre Commercial,ac,Succursale,Mer,Province,150
+695,73,Province,VILLEFRANCHE,69400,Centre ville,nc,Affilié,Mer,Province,0
+721,33,Province,LE MANS,72000,Centre ville,ac,Succursale,Mer,Province,150
+730,85,Province,CHAMBERY,73000,Centre ville,nc,Affilié,Mer,Province,0
+731,86,Province,AIX LES BAINS,73100,Centre ville,nc,Affilié,Mer,Province,0
+740,22,Province,ANNECY,74000,Centre Commercial,ac,Succursale,Mer,Province,300
+750,8,Paris,ST LAZARE,75009,Centre ville,ac,Succursale,Mer,Paris,150
+751,4,Paris,BREA,75006,Centre ville,ac,Succursale,Mer,Paris,100
+752,6,Paris,GRENELLE,75007,Centre ville,ac,Succursale,Mer,Paris,80
+753,10,Paris,GUICHARD,75016,Centre ville,ac,Succursale,Mer,Paris,120
+754,2,Paris,MONTMARTRE,75001,Centre ville,ac,Succursale,Mer,Paris,80
+755,9,Paris,COMMERCE 1,75015,Centre ville,ac,Succursale,Mer,Paris,150
+756,3,Paris,ST ANTOINE,75004,Centre ville,ac,Succursale,Mer,Paris,120
+757,7,Paris,TRONCHET,75008,Centre ville,ac,Succursale,Mer,Paris,150
+758,11,Paris,COURCELLES,75017,Centre ville,ac,Succursale,Mer,Paris,100
+759,1,Paris,LES HALLES,75001,Centre Commercial,ac,Succursale,Mer,Paris,100
+761,51,Province,ROUEN 1,76000,Centre ville,ac,Succursale,Mer,Province,80
+762,32,Province,LE HAVRE,76600,Centre Commercial,ac,Succursale,Mer,Province,100
+763,52,Province,ROUEN 2,76000,Centre ville,ac,Succursale,Mer,Province,200
+770,16,Paris,VAL EUROPE,77400,Centre Commercial,ac,Succursale,Mer,Paris,200
+771,69,Paris,SENART,77566,Centre Commercial,nc,Succursale,Mer,Paris,250
+781,18,Paris,VELIZY 2,78140,Centre Commercial,ac,Succursale,Mer,Paris,150
+782,70,Paris,SAINT GERMAIN,78100,Centre ville,nc,Succursale,Mer,Paris,0
+785,90,Paris,SAINT QUENTIN,78180,Centre ville,nc,Succursale,Mer,Paris,0
+786,94,Paris,VERSAILLES,78000,Centre ville,nv,Succursale,Mer,Paris,0
+801,99,Province,AMIENS,80000,Centre ville,nv,Affilié,Terre,Province,0
+811,104,Province,ALBI,81000,Centre ville,nc,Affilié,Terre,Province,0
+831,79,Province,ST TROPEZ,83990,Centre ville,nv,Succursale,Mer,Province,0
+841,23,Province,AVIGNON,84000,Centre ville,ac,Succursale,Mer,Province,150
+861,47,Province,POITIERS,86000,Centre Commercial,ac,Succursale,Mer,Province,300
+871,112,Province,LIMOGES,87000,Centre ville,nv,Succursale,Terre,Province,0
+891,108,Province,AUXERRE,89000,Centre ville,nv,Affilié,Mer,Province,0
+920,14,Paris,LA DEFENSE,92800,Centre Commercial,ac,Succursale,Mer,Paris,200
+921,12,Paris,BOULOGNE,92100,Centre ville,ac,Succursale,Mer,Paris,150
+922,66,Paris,LEVALLOIS-PERRET,92300,Centre ville,ac,Succursale,Mer,Paris,600
+923,87,Paris,NEUILLY SUR SEINE,92200,Centre ville,nc,Succursale,Mer,Paris,0
+924,92,Paris,RUEIL MALMAISON,92500,Centre ville,nc,Affilié,Mer,Paris,0
+930,15,Paris,ROSNY 2,93110,Centre Commercial,ac,Succursale,Mer,Paris,120
+941,17,Paris,B.EPINE,94320,Centre Commercial,ac,Succursale,Mer,Paris,150
+942,13,Paris,BERCY,94225,Centre Commercial,ac,Succursale,Mer,Paris,100
+943,103,Paris,VINCENNES,94300,Centre ville,nv,Succursale,Terre,Paris,0
+944,113,Paris,VACHE NOIRE,94110,Centre Commercial,nv,Succursale,Terre,Paris,
+950,91,Paris,ENGHEIN LES BAINS,95880,Centre ville,nc,Affilié,Mer,Paris,0
+980,40,Province,MONACO,98000,Centre ville,ac,Succursale,Mer,Province,200
+999,95,Paris,Central,92,Centre Ville,nc,Propre,Terre,,
+7511,5,Paris,BONAPARTE,75006,Centre ville,ac,Succursale,Mer,Paris,150
+7512,67,Paris,ST MICHEL,75006,Centre ville,ac,Succursale,Mer,Paris,200
+7514,77,Paris,ITALIE 2,75013,Centre ville,nc,Succursale,Terre,Paris,0
+7516,78,Paris,COMMERCE 2,75015,Centre ville,nc,Succursale,Terre,Paris,0
+7518,81,Paris,ST DOMINIQUE,75007,Centre ville,nv,Succursale,Terre,Paris,0
+7519,89,Paris,FAUBOURG ST ANTOINE,75011,Centre ville,nc,Succursale,Mer,Paris,0
+7521,97,Paris,ST HONORE,75001,Centre ville,nc,Succursale,Mer,Paris,0
+7523,107,Paris,CAPUCINES,75002,Centre ville,nv,Succursale,Terre,Paris,0
+7524,105,Paris,VAUGIRARD,75015,Centre ville,nv,Succursale,Terre,Paris,0
+7525,111,Paris,GUSTAVE COURBET,75016,Centre ville,nv,Succursale,Terre,Paris,0
